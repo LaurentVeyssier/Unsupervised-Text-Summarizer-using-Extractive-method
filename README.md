@@ -12,6 +12,6 @@ The notebook manages French accentuated characters.
 ## How to use
 - download and run the notebook
 - place your text files into the same folder
-- text files showuld be continuous (no back space).
+- text files must be continuous (no back space).
 
 
