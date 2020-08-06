@@ -18,7 +18,7 @@ The notebook manages French accentuated characters.
 
 input document :
 
-![](covid.txt)
+![](input.PNG)
 
 Generated summary with 5 sentences target :
 
