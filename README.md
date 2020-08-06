@@ -14,4 +14,8 @@ The notebook manages French accentuated characters.
 - place your text files into the same folder
 - text files must be continuous (no back space).
 
+## Results
 
+![input document : ](covid.txt)
+
+![Generated summary with 5 sentences target : ](output.PNG)
