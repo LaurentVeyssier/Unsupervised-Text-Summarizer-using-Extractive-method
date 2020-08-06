@@ -5,7 +5,7 @@ This module summarizes any text using extractive summarization, an unsupervised 
 The notebook takes any text file as input and summarize using extrative technique.
 Sentences for the document are ranked against each other in terms of similarity. Using TextRank, top pages are then extracted to form the summary capturing most of the content of the text file.
 
-![TextRank is an extractive and unsupervised text summarization technique](TextRank.png)
+![TextRank is an extractive and unsupervised text summarization technique](asset/TextRank.png)
 
 The notebook manages French accentuated characters.
 
@@ -18,8 +18,8 @@ The notebook manages French accentuated characters.
 
 input document :
 
-![](input.PNG)
+![](asset/input.PNG)
 
 Generated summary with 5 sentences target :
 
-![](output.PNG)
+![](asset/output.PNG)
